@@ -23,7 +23,7 @@ export const projects: Project[] = [
       "Vapi AI",
     ],
     github: "https://github.com/CODE-Y02/prepme",
-    demo: "prepme-umber.vercel.app",
+    demo: "https://prepme-umber.vercel.app",
   },
   {
     title: "Med Report Explainer",
